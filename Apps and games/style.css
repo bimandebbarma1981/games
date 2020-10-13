@@ -1,0 +1,27 @@
+body{
+    text-align: center;
+}
+h1{
+    font-size: 45px;
+    color: crimson;
+    font-family: 'Sansita Swashed', cursive;
+}
+#Apps{
+    height: 800px;
+    width: 100%;
+    background-color: aqua;
+}
+#Games{
+    height: 800px;
+    width: 100%;
+    background-color:cyan;
+}
+#Chatbot{
+    height: 800px;
+    width: 100%;
+    background-color:darkorange;
+}
+img{
+    height: 300px;
+    width: 300px;
+}
